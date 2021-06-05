@@ -4,8 +4,6 @@
 
 This repository contains web files used for overlaying logos and animations onto [my Twitch stream](https://barkeleyband.com/r/twitch).
 
-- https://barkeleyband.github.io/twitch-overlays/b-froggio
+- https://barkeleyband.github.io/twitch-overlays/barkeley
 - https://barkeleyband.github.io/twitch-overlays/logo
-- https://barkeleyband.github.io/twitch-overlays/logo-with-sponsors
-- https://barkeleyband.github.io/twitch-overlays/presented-by
 - https://barkeleyband.github.io/twitch-overlays/waiting-screen (`?message=Custom message` or `?blank=true`)
