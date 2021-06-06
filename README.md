@@ -6,4 +6,5 @@ This repository contains web files used for overlaying logos and animations onto
 
 - https://barkeleyband.github.io/twitch-overlays/barkeley
 - https://barkeleyband.github.io/twitch-overlays/logo
+- https://barkeleyband.github.io/twitch-overlays/socials
 - https://barkeleyband.github.io/twitch-overlays/waiting-screen (`?message=Custom message` or `?blank=true`)
