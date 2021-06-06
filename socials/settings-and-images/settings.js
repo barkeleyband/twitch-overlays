@@ -10,7 +10,7 @@ var settings = {
         "fontColor": "#F7FFF7"
     },
     "fonts": {
-        "primaryFont": "Jaldi",
+        "primaryFont": "Londrina Solid",
         "fontWeight": "900",
         "fontSize": "40",
         "textYOffset": 0
