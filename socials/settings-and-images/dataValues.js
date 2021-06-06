@@ -1,1 +1,1 @@
-var values = { "values": ["@barkeleyband", "@barkeleyband"] };
+var values = { "values": ["@barkeleyband", "@barkeleyband", "@barkeleyband"] };
